@@ -29,4 +29,4 @@ pip install tensorflow[and-$device]
 1. [Классы](docs/classes.md)
 2. [Алгоритм](docs/algoritm.md)
 3. [Обучение с подкреплением](docs/RL.md)
-4. [Результаты](docs/result.md)
+4. [Результаты](docs/results.md)
